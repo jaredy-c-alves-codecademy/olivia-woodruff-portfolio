@@ -1,0 +1,1 @@
+Project: **Olivia Woodruff Portfolio**, following tasks from Codecademy.
